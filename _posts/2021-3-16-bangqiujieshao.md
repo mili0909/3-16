@@ -2,7 +2,6 @@
 layout: post
 title:  "强棒介绍"
 image: assets/images/screenshot-20210316-024918.png
-featured: true
 ---
 
 # 强棒天使项目简介
